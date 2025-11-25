@@ -96,11 +96,10 @@ Press the push button to trigger the crossing sequence.
 ## 📸 Images
 
 ### Bird’s Eye View
-![Birds Eye View](images/IMG_1617.jpg)
+<img src="images/IMG_1617.jpg" width="400"/>
 
 ### R3 Angle View
-![R3 Angle View](images/IMG_1618.jpg)
-
+<img src="images/IMG_1618.jpg" width="400"/>
 
 ---
 
