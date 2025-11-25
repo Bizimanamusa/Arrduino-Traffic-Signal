@@ -95,9 +95,11 @@ Press the push button to trigger the crossing sequence.
 
 ## 📸 Images
 
-![Traffic Light Project](images/IMG_1614.jpg)
-!Birds Eye View (images/IMG_1617.jpg)
-!R3 Angle View (images/IMG_1618.jpg)
+### Bird’s Eye View
+![Birds Eye View](images/IMG_1617.jpg)
+
+### R3 Angle View
+![R3 Angle View](images/IMG_1618.jpg)
 
 
 ---
